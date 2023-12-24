@@ -1,0 +1,9 @@
+# Temp directories and files
+tmp/
+node_modules/
+.overmind*
+.env
+
+
+# Local builds of source code
+bin/app
